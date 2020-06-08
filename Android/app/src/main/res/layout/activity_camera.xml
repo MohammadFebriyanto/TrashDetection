@@ -50,7 +50,7 @@
         android:id="@+id/fruit_name"
         android:layout_width="match_parent"
         android:layout_height="48dp"
-        android:text="Show me fruits;)"
+        android:text="Bangkit Final Project"
         android:layout_centerHorizontal="true"
         android:gravity="center"
         android:layout_gravity="bottom"
