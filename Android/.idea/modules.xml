@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Bangkit_Final Project.iml" filepath="$PROJECT_DIR$/Bangkit_Final Project.iml" group="Bangkit_Final Project" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/Custom-Image-Classification-Android.iml" filepath="$PROJECT_DIR$/.idea/Custom-Image-Classification-Android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Bangkit_Final Project/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android.iml" filepath="$PROJECT_DIR$/.idea/modules/Android.iml" group="Android" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Android/app" />
     </modules>
   </component>
 </project>
