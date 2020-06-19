@@ -19,4 +19,10 @@ Colab notebook for Modeling without Pretrained model [![Modeling without Pretrai
 
 ## Credits Android App
 
-[![tflite](https://www.travis-ci.org/boncheolgu/tflite-rs.svg?branch=master)](https://www.tensorflow.org/lite)
+[![tflite](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg)](https://www.tensorflow.org/lite)
+
+## Contributor
+
+- [Mohammad Febriyanto](https://github.com/MohammadFebriyanto)
+- [Mohammad Ripan Saiful Mansur](https://github.com/mohripan)
+- [Reyhan Alemmario](https://github.com/reyhanalemmario)
