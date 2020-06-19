@@ -17,5 +17,6 @@ On the second model we use Mobilenetv2 architecture as pretrained model and add 
 Click below to run Colab notebook:
 
 
-[![Modeling with Pretrained model](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://colab.research.google.com/github/MohammadFebriyanto/TrashDetection/blob/master/Machine%20Learning/transfer_learning_mobilenetv2.ipynb)
-[![Modeling without Pretrained model](https://badge.fury.io/py/tensorflow.svg)](https://colab.research.google.com/github/MohammadFebriyanto/TrashDetection/blob/master/Machine%20Learning/Modeling%20without%20Pretrained%20model.ipynb)
+[![Modeling with Pretrained model](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohammadFebriyanto/TrashDetection/blob/master/Machine%20Learning/transfer_learning_mobilenetv2.ipynb)
+
+[![Modeling without Pretrained model](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohammadFebriyanto/TrashDetection/blob/master/Machine%20Learning/Modeling%20without%20Pretrained%20model.ipynb)
