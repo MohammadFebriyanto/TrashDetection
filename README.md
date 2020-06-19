@@ -5,7 +5,12 @@ Trash Detection is an Android App. The Goal of this project to makes better wast
 ## Android App
 
 - You can Download App in this Link [App Final Version](https://github.com/MohammadFebriyanto/TrashDetection/raw/master/Banfkit_Final_Project_New.apk)
-- You can Install this App in your Android 
+- You can Install this App in your Android
+- After installation done, Point camera at the trash and the app automatically clasify the trash.
+
+## User Interface
+
+[User Interface](https://github.com/MohammadFebriyanto/TrashDetection/blob/master/User%20Interface.jpg)
 
 ## Modeling Method
 
