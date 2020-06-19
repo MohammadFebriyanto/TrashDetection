@@ -19,3 +19,6 @@ Click below to run Colab notebook:
 [![Modeling without Pretrained model] (https://colab.research.google.com/github/MohammadFebriyanto/TrashDetection/blob/master/Machine%20Learning/Modeling%20without%20Pretrained%20model.ipynb)] (https://badge.fury.io/py/tensorflow)
 
 [![Modeling with Pretrained model](https://colab.research.google.com/github/MohammadFebriyanto/TrashDetection/blob/master/Machine%20Learning/transfer_learning_mobilenetv2.ipynb)] (https://badge.fury.io/py/tensorflow)
+
+[![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://badge.fury.io/py/tensorflow)
+[![PyPI](https://badge.fury.io/py/tensorflow.svg)](https://badge.fury.io/py/tensorflow)
