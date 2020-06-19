@@ -10,7 +10,7 @@ Trash Detection is an Android App. The Goal of this project to makes better wast
 
 ## User Interface
 
-[User Interface](https://github.com/MohammadFebriyanto/TrashDetection/blob/master/User%20Interface.jpg)
+![User Interface](https://github.com/MohammadFebriyanto/TrashDetection/blob/master/User%20Interface.jpg)
 
 ## Modeling Method
 
